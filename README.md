@@ -5,7 +5,7 @@ Edge Remover's goal is to remove Edge beyond just deleting its paths. With this 
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Edge-Remover/total)
 
 # #1 Usage
-1. Download [Edge Remover](https://github.com/QuakedK/Edge-Remover/releases/download/MicrosoftEdge/Edge-Remover-V1.0.bat).
+1. Download [Edge Remover](https://github.com/QuakedK/Edge-Remover/releases/download/MicrosoftEdgeRemover/Edge-Remover-V1.1.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except the odd user-required inputs.
 
 # #2 Requires WebView/Web2
@@ -13,6 +13,7 @@ Note: A shit ton of programs Requires WebView/Web2, but here's the following thi
 ```
 Roblox
 Most Fortnite Reboot launchers
+A shit ton of more things
 ```
 
 # #3 Revert
